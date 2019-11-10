@@ -1,4 +1,4 @@
-# WheelDialogFragment 从窗口下方滑入的对话框，可用于时间选择，城市选择等等
+# WheelDialogFragment 从窗口下方滑入的对话框，可用于时间选择
 ###### 效果图：
 ![image](https://github.com/GitPhoenix/WheelDialogFragment/blob/master/screen/wheelDialog.gif)
 
